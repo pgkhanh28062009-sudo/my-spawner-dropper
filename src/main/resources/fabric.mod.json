@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "addon-template",
+  "id": "spawner-dropper",
   "version": "${version}",
-  "name": "Addon Template",
+  "name": "Spawner Dropper",
   "description": "An addon template for Meteor Client addons.",
   "authors": [
     "seasnail"
